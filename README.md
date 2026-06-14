@@ -1,5 +1,6 @@
-# Hi, I'm Harish Kiran Patil 👋
+# 💫 About Me
 
+### Hi, I'm Harish Kiran Patil 👋
 📊 Aspiring Data Analyst passionate about data visualization, EDA, and solving real-world problems using Python and Power BI.
 
 ---
