@@ -5,7 +5,7 @@ Hi, I'm Harish Kiran Patil 👋
 ---
 🌐 Socials :
 
-![(Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)" (mailto:harishpatil2044@gmail.com)
+[![(Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:harishpatil2044@gmail.com)
 
 ---
 🔍 About Me
