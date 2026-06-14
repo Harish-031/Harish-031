@@ -21,40 +21,40 @@ Hi, I'm Harish Kiran Patil 👋
 ---
 🧩 Languages & Libraries
 
-"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-"Pandas" (https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 
-"NumPy" (https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
 
-"Matplotlib" (https://img.shields.io/badge/Matplotlib-white?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge)
 
-"Seaborn" (https://img.shields.io/badge/Seaborn-blue?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=for-the-badge)
 
 ---
 📊 Visualization & BI Tools
 
-"Power BI" (https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)
 
-"MySQL" (https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 
-"Excel" (https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel)
 
-"Streamlit" (https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
 
 ---
 🗄️ Databases
 
-"MySQL" (https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 
 ---
 ⚙️ Other Tools
 
-"Git" (https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 
-"GitHub" (https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 
-"VS Code" (https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visual-studio-code)
+![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visual-studio-code)
 
 ---
 📂 Featured Projects
@@ -92,9 +92,9 @@ Hi, I'm Harish Kiran Patil 👋
 ---
 📊 GitHub Stats
 
-https://github-readme-stats.vercel.app/api?username=Harish-031&show_icons=true&theme=tokyonight
+![](https://github-readme-stats.vercel.app/api?username=Harish-031&show_icons=true&theme=tokyonight)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-031&layout=compact&theme=tokyonight
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-031&layout=compact&theme=tokyonight)
 
 ---
 📫 Connect With Me
