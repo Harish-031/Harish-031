@@ -9,7 +9,7 @@
 [![(Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:harishpatil2044@gmail.com)
 
 ---
-## 🔍 About Me
+## 🎯 Career Objective
 
 - Skilled in Python, SQL, Pandas, NumPy, Excel and Power BI
 - Interested in Data Analytics & Machine Learning
