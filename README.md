@@ -19,7 +19,7 @@
 ## 🛠️ Tools & Skills
 
 ---
-## 🧩 Languages & Libraries
+### 🧩 Languages & Libraries
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas) ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy) ![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge) ![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=for-the-badge)
 
@@ -72,13 +72,13 @@
 - Power BI Workshop
   
 ---
-## 📊 **GitHub Stats**
+## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Harish-031&show_icons=true&theme=tokyonight)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-031&layout=compact&theme=tokyonight)
 
 ---
-## 📫 **Connect With Me**
+## 📫 Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/harish-patil-057a5a256
